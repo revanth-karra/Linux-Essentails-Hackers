@@ -16,7 +16,11 @@ let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie o
 10. nano          - Text editor
 11. whatis        - To know the what is the particular command is for
 12. echo          - Display a line of text.
-13. echo >        - For moving text to a particular. example: echo "github" > text.txt      
+13. echo >        - For moving text to a particular. example: echo "github" > text.txt
 14. rm            - For deleting the files, folders and directories
-15. mv            - For moving the files, folders and directories
-16. 
+15. mv            - For moving the files, folders and directories and renaming the files.
+16. cat           - Concatenates files and prints out the output inside the text files or text from file to file. example: cat text.txt (or) cat /etc/passwd > text.txt
+17. mkdir         - For creating a directory
+18. cp            - For copy files and directories
+19. R             - Recursively
+20. rm -R         - Remove the files recursively
