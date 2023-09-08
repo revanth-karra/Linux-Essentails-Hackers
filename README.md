@@ -1,4 +1,4 @@
-# Linux-Essentails-Hackers
+# LINUX ESSENTIALS FOR HACKERS
 
 let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system. 1991, a young fellow named Linus Torvalds started developing what we now know today as the Linux kernel.
 
